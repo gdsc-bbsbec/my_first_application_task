@@ -41,6 +41,7 @@ git push origin default
 2. You will see one 'Contribute' button. Click on it.
 
 3. You will see a pull request form. Fill in the form and click on 'Create pull request' button.
-(Make sure the branch you are trying to merge is the same as your forked repository branch. say 2021 for now)
+
+(Make sure the branch you are trying to merge is the same as your forked repository branch. say default for now)
 
 Most likely I will be merging the PR to default branch in less than a 24 hours. You can still [contact](https://github.com/HemantSachdeva#ways-to-reach-me) me if you have any doubt.
